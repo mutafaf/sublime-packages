@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Color Highlighter",
+		"CSS3",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Minifier",
+		"Package Control",
+		"SCSS",
+		"YAML Nav"
+	]
+}

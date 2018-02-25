@@ -1,0 +1,42 @@
+{
+	"added_words":
+	[
+		"Uploader",
+		"uploader",
+		"criterium",
+		"plugins"
+	],
+	"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Bright.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".keep",
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"public/assets",
+		"tmp/cache",
+		"log"
+	],
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_using_spaces": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 0,
+	"material_theme_tabs_autowidth": true,
+	"spell_check": true,
+	"tab_size": 2,
+	"tab_width": 2,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}
